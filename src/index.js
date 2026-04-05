@@ -9,3 +9,4 @@ function multiply(a, b) {
 }
 
 module.exports = { add, multiply };
+\n// Updated
