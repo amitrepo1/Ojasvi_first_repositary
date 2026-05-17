@@ -1,4 +1,7 @@
 name: My First GitHub Workflow
+# Triggering a fresh build with updated secrets
+name: Build and Push Docker Image
+...
 
 # Controls when the workflow will run
 on:
