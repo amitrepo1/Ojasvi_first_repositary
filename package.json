@@ -1,0 +1,9 @@
+{
+  "name": "github-actions-demo",
+  "version": "1.0.0",
+  "description": "Learning GitHub Actions",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node tests/test.js"
+  }
+}
